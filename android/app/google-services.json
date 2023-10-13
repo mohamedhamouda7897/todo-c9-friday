@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283171518590",
+    "project_id": "todo-c9-friday",
+    "storage_bucket": "todo-c9-friday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283171518590:android:cb490d06ba749b34a4402f",
+        "android_client_info": {
+          "package_name": "com.example.todo_c9_friday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTpqdugxeWARSzqmhWxmU-EkFF3FF8ZEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
